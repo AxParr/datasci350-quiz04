@@ -1,0 +1,11 @@
+{
+  "stop": {"id": "EM-12", "name": "Emory Point",
+           "location": {"lat": 33.79, "lon": -84.32}},
+  "updated": "2026-11-19T10:15",
+  "units": {"wait": "minutes", "distance": "km"},
+  "arrivals": [
+    {"route": "C", "wait": 4, "distance": 1.2},
+    {"route": "Cliff 6", "wait": 11, "distance": 3.5},
+    {"route": "C", "wait": 19, "distance": 6.0}
+  ]
+}
